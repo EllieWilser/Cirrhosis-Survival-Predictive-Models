@@ -1,5 +1,5 @@
 # Cirrhosis-Survival-Predictive-Models
-Cirrhosis of the liver is late stage scarring of the liver which is caused by other liver diseases and conditions like hepatitis and chronic alcoholism. This data used in my predictive analysis was collected by the Mayo Clinic in their primary biliary cirrhosis of the liver trial which was conduicted between 1974 and 1984.
+Cirrhosis of the liver is late stage scarring of the liver which is caused by other liver diseases and conditions like hepatitis and chronic alcoholism. This data used in my predictive analysis was collected by the Mayo Clinic in their primary biliary cirrhosis of the liver trial which was conducted between 1974 and 1984.
 ## Summary
 ### Data Preprocessing
 In the data preprocessing section, I first started by removing the ID column because it had no use in my analysis. Next I handled the the empty entries in the data set by removing them because I only wanted to use properly collected data. Next, I had to change the data types from strings to numeric data types.
